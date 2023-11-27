@@ -64,7 +64,7 @@
             <!-- NAVBAR -->
             <nav class="navbar navbar-expand-md navbar-transparent" style="opacity: 1;">
                 <div class="container">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="/">
                         <font style="font-family: bad script,cursive; font-weight: bold !important; color: #fff;">C &amp; L</font>
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">

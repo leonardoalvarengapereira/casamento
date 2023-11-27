@@ -33,6 +33,10 @@
         <!-- FAVICON -->
         <link href="{{ asset('imagens/favicon.png') }}" rel="shortcut icon">
 
+        <script type="text/javascript" charset="UTF-8" src="{{ asset('js/jquery.min.js') }}"></script>
+        <script type="text/javascript" charset="UTF-8" src="{{ asset('js/jquery-migrate-3.0.0.min.js') }}"></script>
+        <script type="text/javascript" charset="UTF-8" src="{{ asset('js/popper.min.js') }}"></script>
+        <script type="text/javascript" charset="UTF-8" src="{{ asset('js/bootstrap.min.js') }}"></script>
         <script type="text/javascript" charset="UTF-8" src="{{ asset('js/common.js') }}"></script>
         <script type="text/javascript" charset="UTF-8" src="{{ asset('js/util.js') }}"></script>
     </head>
@@ -58,7 +62,7 @@
             <!-- NAVBAR -->
             <nav class="navbar navbar-expand-md navbar-transparent" style="opacity: 1;">
                 <div class="container">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="/">
                         <font style="font-family: bad script,cursive; font-weight: bold !important; color: #fff;">C &amp; L</font>
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
