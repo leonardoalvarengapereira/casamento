@@ -16,7 +16,7 @@ class CriarTabelaRecados extends Migration
         Schema::create('recados', function (Blueprint $table) {
             $table->increments("id");
             $table->string('nome', 100)->default("")->nullable(false);
-            $table->text('mensagem')->default("")->nullable(false);
+            $table->text('mensagem')->nullable(false);
             $table->string('data')->default("")->nullable(false);
             $table->timestamps();
         });
