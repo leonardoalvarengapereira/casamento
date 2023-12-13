@@ -64,8 +64,11 @@
             <!-- NAVBAR -->
             <nav class="navbar navbar-expand-md navbar-transparent" style="opacity: 1;">
                 <div class="container">
-                    <a class="navbar-brand" href="/">
+                    <a class="navbar-brand d-none d-sm-block" href="/">
                         <font style="font-family: bad script,cursive; font-weight: bold !important; color: #fff;">C &amp; L</font>
+                    </a>
+                    <a class="navbar-brand d-block d-sm-none" href="/">
+                        <font style="font-family: bad script,cursive; font-weight: bold !important; color: #fff;">Celine &amp; Luan</font>
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fa fa-bars"></i>
@@ -99,9 +102,9 @@
 		    <div class="owl-carousel carousel-style-01 owl-loaded" id="banner-carousel">
 		        <div class="owl-stage-outer">
                     <div class="owl-stage">
-                        <div class="owl-item cloned" style="width: 1536px;">
+                        <div class="owl-item cloned" style="width: 100%;">
                             <div class="single-slide overlay-shadow">
-				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_15.jpg)"></div>
+				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_21.jpg)"></div>
 				                <div class="slider-caption">
 					                <h1 class="text-white mt-3">Mural de Recados</h1>
 				                </div>
