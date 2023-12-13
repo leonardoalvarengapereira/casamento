@@ -99,7 +99,7 @@
                     <div class="owl-stage">
                         <div class="owl-item cloned" style="width: 1536px;">
                             <div class="single-slide overlay-shadow">
-				                <div class="scale-top banner-img" style="background-image: url(imagens/bg-img-03.jpg)"></div>
+				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_10.jpg)"></div>
 				                <div class="slider-caption">
 					                <h1 class="text-white mt-3">Lista de presentes</h1>
 				                </div>
@@ -135,6 +135,9 @@
                     <div class="modal-body">
                         <center>
                             <img class="img-fluid" src="{{ asset('imagens/pagamento.png') }}" alt="image" width="300" height="300" />
+                            <p class="mt-4">
+                                Chave PIX: 029.287.090-61
+                            </p>
                         </center>
                         <p class="mt-4">
                             Agradecemos imensamente pelo seu presente e desejamos tudo em dobro para você e sua família.
@@ -151,73 +154,40 @@
                     <div class="col-lg-10 col-md-10">
                         <p>
                             <h3>
-                                Esta é a nossa lista de presentes e um de nossos grandes sonhos como casal.
+                                Este é um de nossos grandes sonhos como casal.
                                 <br/>
                                 Ficamos muito felizes em compartilhar com vocês esse momento tão especial cheio de amor.
+                                <br/>
+                                Mas, se vocês também quiserem nos presentear, com um valor para ajudar a realizar esse sonho, ficaremos muito agradecidos.
                             </h3>
                         </p>
                     </div>
                 </div>
 	            <div class="row mt-5">
-                    <div class="col-lg-4 col-md-4">
-                            <div class="card-style-1 ">
-                                <div class="image">
-                                    <img class="img-fluid" src="{{ asset('imagens/cancun.jpg') }}" alt="image" />
-                                </div>
-                                <div class="card-body">
-                                    <h2 class="mt-4 mb-3">Viagem para Cancún</h2>
-                                    <p class="mt-4">
-                                    Em vez de apenas presentear com objetos, que tal oferecer ao casal uma jornada inesquecível em direção ao paraíso? Cancún, com suas praias de areias brancas e águas cristalinas, é o cenário perfeito para celebrar o início dessa incrível jornada a dois.
-                                    </p>
-                                    <a href="#" class="btn btn-primary btn-rounded mt-4" data-toggle="modal" data-target="#modal-pagamento">
-                                        Presentear
-                                    </a>
-                                </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="card-style-1 ">
+                            <div class="image">
+                                <img class="img-fluid" src="{{ asset('imagens/nordeste.png') }}" alt="image" />
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="card-style-1 ">
-                                <div class="image">
-                                    <img class="img-fluid" src="{{ asset('imagens/cruzeiro.png') }}" alt="image" />
-                                </div>
-                                <div class="card-body">
-                                    <a href="#">
-                                        <h2 class="mt-4 mb-3">Viagem de Cruzeiro</h2>
-                                    </a>
-                                    <p class="mt-4">
-                                    Que tal presentear o casal com uma experiência única e náutica que marcará o início de sua jornada conjugal? Um cruzeiro é mais do que uma simples viagem; é uma aventura repleta de romance e descobertas, onde o amor flui suavemente ao ritmo das ondas.
-                                    </p>
-                                    <a href="#" class="btn btn-primary btn-rounded mt-4" data-toggle="modal" data-target="#modal-pagamento">
-                                        Presentear
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="card-style-1 ">
-                                <div class="image">
-                                    <img class="img-fluid" src="{{ asset('imagens/nordeste.png') }}" alt="image" />
-                                </div>
-                                <div class="card-body">
-                                    <a href="#">
-                                        <h2 class="mt-4 mb-3">Viagem para o Nordeste</h2>
-                                    </a>
-                                    <p class="mt-4">
-                                        Em um gesto que transcende a rotina, considere presentear o casal com uma experiência única e inesquecível: uma viagem ao encantador Nordeste brasileiro. Entre dunas douradas, praias de águas mornas e uma cultura vibrante, essa região oferece um cenário perfeito para a lua de mel dos sonhos.
-                                    </p>
-                                    <a href="#" class="btn btn-primary btn-rounded mt-4" data-toggle="modal" data-target="#modal-pagamento">
-                                        Presentear
-                                    </a>
-                                </div>
+                            <div class="card-body">
+                                <a href="#">
+                                    <h2 class="mt-4 mb-3">Viagem para o Nordeste</h2>
+                                </a>
+                                <p class="mt-4">
+                                    Em um gesto que transcende a rotina, considere presentear o casal com um valor que ajude a realizar o sonho de uma experiência única e inesquecível: uma viagem ao encantador Nordeste brasileiro. Entre dunas douradas, praias de águas mornas e uma cultura vibrante, essa região oferece um cenário perfeito para a lua de mel dos sonhos.
+                                </p>
+                                <a href="#" class="btn btn-primary btn-rounded mt-4" data-toggle="modal" data-target="#modal-pagamento">
+                                    Presentear
+                                </a>
                             </div>
                         </div>
                     </div>
-	            </div>
-            </div>
+                </div>
+	        </div>
         </section>
 
         <!-- FOOTER SECTION -->
-        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto1.jpg); height: 500px">
+        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto_14.jpg); height: 500px">
             <div class="container text-center">
                 <div class="thanks">
                     Obrigado!

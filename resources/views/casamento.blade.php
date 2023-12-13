@@ -99,7 +99,7 @@
                     <div class="owl-stage">
                         <div class="owl-item cloned" style="width: 1536px;">
                             <div class="single-slide overlay-shadow">
-				                <div class="scale-top banner-img" style="background-image: url(imagens/bg-img-04.jpg)"></div>
+				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_17.jpg)"></div>
 				                <div class="slider-caption">
 					                <h1 class="text-white mt-3">Casamento</h1>
 				                </div>
@@ -128,7 +128,7 @@
 	            <div class="row">
 	                <div class="col-lg-9">
 	                    <div class="image">
-	                        <img src="{{ asset('imagens/foto.jpeg') }}" alt="Image" class="img-fluid" />
+	                        <img src="{{ asset('imagens/foto_3.jpg') }}" alt="Image" class="img-fluid" />
 	                    </div>
 	                    <p class="mt-5">
                             Numa tarde repleta de promessas suaves e corações entrelaçados, dois destinos convergem para um só caminho: o sagrado matrimônio. O casamento, esse elo mágico que transcende o tempo, é a celebração de amor e comprometimento, onde duas almas se unem para dançar a sinfonia da vida em perfeita harmonia.
@@ -142,17 +142,17 @@
 	                    <div class="row mt-4">
 	                        <div class="col-md-4">
 	                            <div class="image mb-4 mb-md-0">
-	                                <img src="{{ asset('imagens/foto1.jpg') }}" alt="Image" class="img-fluid" />
+	                                <img src="{{ asset('imagens/foto_6.jpg') }}" alt="Image" class="img-fluid" />
 	                            </div>
 	                        </div>
 	                        <div class="col-md-4">
 	                            <div class="image mb-4 mb-md-0">
-	                                <img src="{{ asset('imagens/foto.jpeg') }}" alt="Image" class="img-fluid" />
+	                                <img src="{{ asset('imagens/foto_9.jpg') }}" alt="Image" class="img-fluid" />
 	                            </div>
 	                        </div>
 	                        <div class="col-md-4">
 	                            <div class="image mb-4 mb-md-0">
-	                                <img src="{{ asset('imagens/foto2.jpg') }}" alt="Image" class="img-fluid" />
+	                                <img src="{{ asset('imagens/foto_13.jpg') }}" alt="Image" class="img-fluid" />
 	                            </div>
 	                        </div>
 	                    </div>
@@ -195,7 +195,7 @@
 	    </section>
 
         <!-- FOOTER SECTION -->
-        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto1.jpg); height: 500px">
+        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto_14.jpg); height: 500px">
             <div class="container text-center">
                 <div class="thanks">
                     Obrigado!

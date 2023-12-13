@@ -99,7 +99,7 @@
                     <div class="owl-stage">
                         <div class="owl-item cloned" style="width: 1536px;">
                             <div class="single-slide overlay-shadow">
-				                <div class="scale-top banner-img" style="background-image: url(imagens/foto.jpeg)"></div>
+				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_16.jpg)"></div>
 				                <div class="slider-caption">
 					                <h5 class="text-white">
                                         Faltam
@@ -151,7 +151,7 @@
                                 <h2 class="mt-0 mb-1 text-lg-right">Luan Alvarena Pereira</h2>
                                 <span class="d-block text-lg-right">Noivo</span>
                                 <p class="text-lg-right mt-3">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Luan, 32 anos. É natural de Rio Grande e amante de futebol e história.
                                 </p>
                                 <div class="social-links text-lg-right mt-4">
                                     <a href="https://www.facebook.com/luan.pereira.1800" class="" target="_blank;">
@@ -170,7 +170,7 @@
                                 <h2 class="mt-0 mb-1 text-lg-left">Celine Ferreira</h2>
                                 <span class="d-block text-lg-left">Noiva</span>
                                 <p class="mt-3 text-lg-left">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Celine, 24 anos. É natural de Pelotas e ama ler, viajar e poder compartilhar bons momentos com a família.
                                 </p>
                                 <div class="social-links mt-4 text-lg-left">
                                     <a href="https://www.facebook.com/celine.ferreira.99" class="" target="_blank;">
@@ -323,9 +323,13 @@
                                 <div class="owl-stage" style="width: 3240px; font-weight: bold; font-size: 25px; color: #fff;">
                                     <div class="owl-item cloned" style="width: 540px;">
                                         <div class="single-item">
-                                            <a href="" style="cursor: pointer;" onclick="">
-                                                "O amor é paciente e bondoso. Tudo sofre, tudo crê, tudo espera e tudo suporta" 1 Co 13:4-7
-                                            </a>
+                                            <!-- <a href="" style="cursor: pointer;" onclick=""> -->
+                                            <h3 class="mt-4" style="color: white">
+                                                "O amor é paciente e bondoso. Tudo sofre, tudo crê, tudo espera e tudo suporta"
+                                                <br/>
+                                                1 Co 13:4-7
+                                            <!-- </a> -->
+                                            </h3>
                                         </div>
                                     </div>
                                 </div>
@@ -337,7 +341,7 @@
         </section>
 
         <!-- FOOTER SECTION -->
-        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto1.jpg); height: 500px">
+        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto_14.jpg); height: 500px">
             <div class="container text-center">
                 <div class="thanks">
                     Obrigado!

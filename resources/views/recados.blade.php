@@ -101,7 +101,7 @@
                     <div class="owl-stage">
                         <div class="owl-item cloned" style="width: 1536px;">
                             <div class="single-slide overlay-shadow">
-				                <div class="scale-top banner-img" style="background-image: url(imagens/bg-img-01.jpg)"></div>
+				                <div class="scale-top banner-img" style="background-image: url(imagens/foto_15.jpg)"></div>
 				                <div class="slider-caption">
 					                <h1 class="text-white mt-3">Mural de Recados</h1>
 				                </div>
@@ -197,7 +197,7 @@
         </section>
 
         <!-- FOOTER SECTION -->
-        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto1.jpg); height: 500px">
+        <footer class="footer-section overlay-shadow2" style="background-image: url(imagens/foto_14.jpg); height: 500px">
             <div class="container text-center">
                 <div class="thanks">
                     Obrigado!
