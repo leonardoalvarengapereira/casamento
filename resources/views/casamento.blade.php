@@ -190,7 +190,7 @@
                             </li>
 	                    </ul>
 	                    <div class="map-canvas border mt-5 mt-lg-4">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2812.18915985995!2d-52.18382521565859!3d-32.16477291416447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95118579c209787f%3A0x2a1ca18b2c774bfd!2sAv.%20Engenheira%20L%C3%BAcia%20Maria%20Balbela%20Chiesa%2C%207331%20-%20Rio%20Grande%2C%20RS%2C%2096217-230!5e0!3m2!1spt-BR!2sbr!4v1701017317954!5m2!1spt-BR!2sbr" width="240" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2812.18915985995!2d-52.18382521565859!3d-32.16477291416447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95118579c209787f%3A0x2a1ca18b2c774bfd!2sAv.%20Engenheira%20L%C3%BAcia%20Maria%20Balbela%20Chiesa%2C%207331%20-%20Rio%20Grande%2C%20RS%2C%2096217-230!5e0!3m2!1spt-BR!2sbr!4v1701017317954!5m2!1spt-BR!2sbr" width="100%" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	      	            </div>
 	                </aside>
 	            </div>
