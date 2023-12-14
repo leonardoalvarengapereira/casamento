@@ -27,7 +27,7 @@
         <link rel="stylesheet" href="{{ asset('fontawesome-free-6.2.0-web/css/solid.css') }}">
 
         <!-- CUSTOM CSS -->
-        <link href="{{ asset('css/style.css') }}" rel="stylesheet" />
+        <link href="{{ asset('css/style_final.css') }}" rel="stylesheet" />
         <link rel="stylesheet" href="{{ asset('css/default.css') }}" id="option_color" />
 
         <!-- FAVICON -->
