@@ -146,7 +146,7 @@
                     <div class="col-md-6">
                         <div class="media media-style-01">
                             <div class="media-body mr-lg-4">
-                                <h2 class="mt-0 mb-1 text-lg-right">Luan Alvarena Pereira</h2>
+                                <h2 class="mt-0 mb-1 text-lg-right">Luan Alvarenga Pereira</h2>
                                 <span class="d-block text-lg-right">Noivo</span>
                                 <p class="text-lg-right mt-3">
                                     Luan, 32 anos. É natural de Rio Grande e amante de futebol e história.
