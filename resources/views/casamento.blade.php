@@ -178,7 +178,7 @@
                             </li>
 	                        <li>
                                 <i class="fa fa-clock" aria-hidden="true"></i>
-                                17:30h - 23:59h
+                                17:15h
                             </li>
 	                        <li>
                                 <i class="fa fa-phone" aria-hidden="true"></i>
